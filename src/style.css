@@ -18,7 +18,7 @@ body {
 }
 
 .header {
-	background: url(/src/img/first-bg.jpg) no-repeat center top / cover;	
+	background: url(src/img/first-bg.jpg) no-repeat center top / cover;	
 	display: flex;
 }
 
@@ -162,7 +162,7 @@ body {
 }
 
 .event-2010::after {
-	content: url(/src/img/about1.jpg);
+	content: url(src/img/about1.jpg);
 	padding-left: 42px;
 	align-self: center;
 }
@@ -173,7 +173,7 @@ body {
 }
 
 .event-2011::before {
-	content: url(/src/img/about2.jpg);
+	content: url(src/img/about2.jpg);
 	padding-right: 42px;
 	align-self: center;
 }
@@ -184,7 +184,7 @@ body {
 }
 
 .event-2012::after {
-	content: url(/src/img/about3.jpg);
+	content: url(src/img/about3.jpg);
 	padding-left: 42px;
 	align-self: center;
 }
@@ -195,7 +195,7 @@ body {
 }
 
 .event-2014::before {
-	content: url(/src/img/about4.jpg);
+	content: url(src/img/about4.jpg);
 	padding-right: 42px;
 	align-self: center;
 }
